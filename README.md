@@ -1,2 +1,2 @@
 Hi there 😉 It's me Koushik
-<img src="images/">
+<img src="images.jpg">
